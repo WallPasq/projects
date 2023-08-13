@@ -4,7 +4,7 @@ It's my portfolio right now. There are projects here that I have been working in
 # Folders
 Each project is in a different folder, and here are brief descriptions about them.
 
-## Projects developed during the [Big Data Analytics with R and Microsoft Azure Machine Learning course](https://www.datascienceacademy.com.br/course/analise-de-dados-com-r), from the Data Science Academy
+## Projects developed during the [Big Data Analytics with R and Microsoft Azure Machine Learning](https://www.datascienceacademy.com.br/course/analise-de-dados-com-r) course, from the Data Science Academy
 
 ### [World Happiness Report Data](https://github.com/WallPasq/projects/tree/83bcd63f7a5875129c2b468defd7c48672d896c8/world_happiness_report_data)
 
