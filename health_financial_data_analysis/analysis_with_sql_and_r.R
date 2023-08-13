@@ -18,7 +18,7 @@ library(ggplot2)
 # TOTCHG        | Cost of hospitalization.
 # APRDRG        | Refined patient diagnostic group.
 
-db <- read.csv('Mini Projeto 2/dataset.csv')
+db <- read.csv('dataset.csv')
 View(db)
 str(db)
 summary(db)
