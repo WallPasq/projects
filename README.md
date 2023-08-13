@@ -10,7 +10,7 @@ Each project is in a different folder, and here are brief descriptions about the
 
 The analysis of socioeconomic data is essential for any company to understand the social and economic scenario for the business environment, understand the difference between regions, cities and countries, the influence of indicators on customers purchasing decisions and how changes in the scenario can impact corporate strategies.
 
-In this project I analyzed real data of socioeconomic indicators from different countries, in a time series. The most important work was the data munging, where I used imputation techniques such as Last and Next Observation Carried Forward and replacement by the average data of the region of the year. Using the dplyr and ggplot2 libraries, I answered five questions through the data.
+In this project I analyzed real data of socioeconomic indicators from different countries, in a time series. The most important work was the data munging, where I used imputation techniques such as Last and Next Observation Carried Forward (LOCF and NOCF) and replacement by the average data of the region of the year. Using the dplyr and ggplot2 libraries, I answered five questions through the data.
 
 ### [Health Financial Data Analysis](https://github.com/WallPasq/projects/tree/83bcd63f7a5875129c2b468defd7c48672d896c8/health_financial_data_analysis)
 
