@@ -1,3 +1,6 @@
+# Project developed during the course Big Data Analytics with R and Microsoft Azure Machine Learning,
+# from the Data Science Academy: https://www.datascienceacademy.com.br/course/analise-de-dados-com-r
+
 # Import the necessary libraries, the dataset and realize data munging
 
 library(tidyr)
