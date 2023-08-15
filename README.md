@@ -18,3 +18,9 @@ Using data from a national hospital cost survey conducted by the USAgency for He
 Among the techniques used to answer the questions are: ANOVA test and linear regression analysis.
 
 The data provided are restricted to the city of Wisconsin and refer to patients aged 0 to 17 years.
+
+### [Industrial Equipment Maintenance](https://github.com/WallPasq/projects/tree/d7ac99fe947d8e7a51aa76e86c072c9b0a800f42/industrial_equipment_maintenance)
+
+Using a mass of dummy data created in code, to have a controlled environment, I show my skills by explaining not only how the variables arrived at the result in the model, but also why. For this, I use the h2o library to create a series of Machine Learning models using AutoML and, from the best model, I analyze the SHAP values ​​of each variable.
+
+I answer only one, but extremely important, business question: What factors (metrics) most contribute to explain the behavior of the need for maintenance in a piece of equipment? Why?
