@@ -172,7 +172,7 @@ library(corrgram)
 library(randomForest)
 
 # Checks which are the sheets of the Excel file.
-file <- 'Projeto 1/dataset.xlsx'
+file <- 'dataset.xlsx'
 sheet <- excel_sheets(file)
 db <- read_excel(file, sheet=sheet)
 
