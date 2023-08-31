@@ -33,7 +33,7 @@ This is my first project with real project characteristics: at the beginning, I 
 
 In this project, I used Linear Regression as a tool to treat missing data, and also to create the final model. In this way, I show how Linear Regression (and other algorithms) can be used both as statistical tools and as Machine Learning models. In addition, at the end, I explain how each variable behaves for the final prediction of the model. That is, I answer a possible business question: how does each characteristic of the vehicle affect its average energy consumption?
 
-### [Predicting the efficiency of fire extinguishers](https://github.com/WallPasq/projects/tree/625fe48581daff99ab5c0f3f9ec8e864239a3970/efficiency_fire_extinguishers)
+### [Efficiency Fire Extinguishers](https://github.com/WallPasq/projects/tree/625fe48581daff99ab5c0f3f9ec8e864239a3970/efficiency_fire_extinguishers)
 
 Using the dataset "Extinguishing status of fuel flames with sound wave", which contains a study about extinguishing tests of four different fuel flames with a sound wave extinguishing system, I built a Neural Network Machine Learning Model able to predict whether or not an extinguisher will be able to extinguish a flame. For this, it uses six variables, which are: flame size, type of fuel, distance from the flame to the collimator output, sound pressure level, airflow created by the sound wave and low frequency range.
 
