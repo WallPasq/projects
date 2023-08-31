@@ -111,7 +111,7 @@ library(neuralnet)
 library(pROC)
 
 # Checks which are the sheets of the Excel file.
-file <- 'Projeto 2/dataset.xlsx'
+file <- 'dataset.xlsx'
 sheets <- excel_sheets(file)
 dbs <- list()
 
