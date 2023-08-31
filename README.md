@@ -32,3 +32,13 @@ Using the dataset "Dataset of electric passenger cars with their specifications"
 This is my first project with real project characteristics: at the beginning, I insert the context of the project, the business question, how to solve it, what is the definition of done, and a report on the data, with reference, summary, the link to the data source and a data dictionary made with the help of ChatGPT (since it was not provided with the dataset). Afterwards, I carry out all the necessary processes to execute the project, such as handling the missing values, exploratory analysis, modifying metadata, developing and evaluating the Machine Learning models, fine-tuning the model and interpreting the final model.
 
 In this project, I used Linear Regression as a tool to treat missing data, and also to create the final model. In this way, I show how Linear Regression (and other algorithms) can be used both as statistical tools and as Machine Learning models. In addition, at the end, I explain how each variable behaves for the final prediction of the model. That is, I answer a possible business question: how does each characteristic of the vehicle affect its average energy consumption?
+
+### [Predicting the efficiency of fire extinguishers](https://github.com/WallPasq/projects/tree/625fe48581daff99ab5c0f3f9ec8e864239a3970/efficiency_fire_extinguishers)
+
+Using the dataset "Extinguishing status of fuel flames with sound wave", which contains a study about extinguishing tests of four different fuel flames with a sound wave extinguishing system, I built a Neural Network Machine Learning Model able to predict whether or not an extinguisher will be able to extinguish a flame. For this, it uses six variables, which are: flame size, type of fuel, distance from the flame to the collimator output, sound pressure level, airflow created by the sound wave and low frequency range.
+
+The idea of ​​the model is to use it in computer simulations, aiming to add a layer of security to the analysis of the efficiency of fire extinguishers. Some important points I learned from this project:
+
+1) Before thinking about modifying the variables, if possible, use another ML model, as it can perform much better with the same training and testing dataset;
+2) The softmax function can be used as the last activation function of a neural network to normalize the output of a network to a probability distribution. With this distribution it is possible to calculate the ROC curve of the binomial model;
+3) Exploratory analysis is essential to understand the relationships between variables, which helps to explain complex ML models such as neural networks.
