@@ -1,5 +1,5 @@
 <a href="https://github.com/WallPasq/projects" rel="noreferrer noopener" target="_blank">
-  <img src="https://github.com/WallPasq/projects/blob/main/assets/banner.png" alt="Languages ​​and frameworks icons: R, Python, Pandas, Scikit-learn, Spark, JavaScript, TypeScript, React, NestJS and GraphQL. Projects." rel="noreferrer noopener" target="_blank">
+  <img src="https://github.com/WallPasq/projects/blob/main/assets/banner.png" alt="Languages ​​and frameworks icons: Python, scikit-learn, Spark, Databricks, BigQuery, Streamlit, Airflow, PowerBI. Projects." rel="noreferrer noopener" target="_blank">
 </a>
 <p>It's my portfolio right now. There are projects here that I have been working on in my studies, courses, inspirations, and other reasons.</p>
 
